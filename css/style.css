@@ -87,6 +87,71 @@ a, i {
 }
 
 /* PROJECTS */
+#img2 {
+    background-image: url(../imagens/login-page.svg);
+}
 
+#img3 {
+    background-image: url(../imagens/projet-red.svg);
+}
+
+#img4 {
+    background-image: url(../imagens/sitedroid.svg);
+}
+
+#img5 {
+    background-image: url(../imagens/port1.svg);
+}
+
+#img6 {
+    background-image: url(../imagens/cordel.svg);
+}
+
+#img7 {
+    background-image: url(../imagens/jogo-velha.svg);
+}
+
+#projects-container h1 {
+    text-align: center;
+}
+
+#projects-container h1,
+#projects-container .col-md-6,
+#projects-container .col-12 {
+    margin-bottom: 50px;
+}
+
+.small-image-container {
+    height: 250px;
+    margin-bottom: 20px;
+}
+
+/* FOOTER */
+footer {
+    border-top: 1px solid #ccc;
+    height: 250px;
+    padding: 30px;
+}
+
+footer i {
+    font-size: 20px;
+}
+
+#social-icons-container {
+    padding: 25px;
+}
+
+#social-icons-container div {
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+    margin: 20px;
+}
+
+a:hover i {
+    color: #c1b696;
+}
 
 
