@@ -47,6 +47,12 @@ a, i {
     justify-content: center;
 }
 
+/* MODAL */
+#modal i {
+    margin-left: 60px;
+    font-size: 35px;
+}
+
 /* NAVBAR */
 #navbar {
     padding: 10px;
