@@ -51,7 +51,6 @@ a, i {
 #navbar {
     padding: 10px;
     margin: 10px auto;
-    border-bottom: 1px solid #ccc;
 }
 
 #navbar a {
@@ -64,51 +63,54 @@ a, i {
 }
 
 /* MAIN ABOUT */
-@media (min-width: 768px) {
-    #about .col-12 {
-        max-width: 50%;
-    }
-
-    #about #text-about h3 {
-        margin-top: 150px;
-    }
-}
-
 #about {
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
-#picture {
-    border-radius: 50%;
+#img1 {
+    background-image: url(../imagens/foto-perfil-linkedin.svg);
+    border-radius: 10px;
 }
 
-#text-about h3 {
-    margin-top: 30px;
+.small-image-container1 {
+    height: 450px;
+    margin-bottom: 20px;
+}
+
+#about h3 {
+    margin-top: 80px;
 }
 
 /* PROJECTS */
 #img2 {
     background-image: url(../imagens/login-page.svg);
+    border-radius: 10px;
 }
 
 #img3 {
     background-image: url(../imagens/projet-red.svg);
+    border-radius: 10px;
 }
 
 #img4 {
     background-image: url(../imagens/sitedroid.svg);
+    border-radius: 10px;
 }
 
 #img5 {
     background-image: url(../imagens/port1.svg);
+    border-radius: 10px;
 }
 
 #img6 {
     background-image: url(../imagens/cordel.svg);
+    border-radius: 10px;
 }
 
 #img7 {
     background-image: url(../imagens/jogo-velha.svg);
+    border-radius: 10px;
 }
 
 #projects-container h1 {
